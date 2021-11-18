@@ -87,20 +87,26 @@ Usually, the development period for the project is 2 weeks.
 Therefore, even if you have a comprehensive idea, start by focusing on the most important function. 
 This is our guideline schedule, and it can help you stay focused and work towards your goal!
 ```
-* DAY 1: Choose a project available and Collect your design from your Tutor. The tutor will explain the flow of the project.
-* DAY 2: Cloning, Downloading and Deployment of QuickStart App as a reference project.
-* DAY 3-6: Understand the Design and convert the pages from Adobe XD into HTML and CSS after making a plan for the same.
-* DAY 7-9: Completion of the Django API which forms the backend part of our project
-* DAY 9-12: Adding Functionality to the project in frontend using REACT and REDUX
-* DAY 13: After testing the code and receiving feedback from tutor, rectify/fix any bugs that exist.
+#### STEP-1 (DAY 1): Choosing a project
+* Choose a project available and Collect your design from your Tutor. The tutor will explain the flow of the project.
+#### STEP-2 (DAY 2): Quickstart App
+* Cloning, Downloading and Deployment of QuickStart App as a reference project.
+#### STEP-3 (DAY 3-6): Designing
+* Understand the Design and convert the pages from Adobe XD into HTML and CSS after making a plan for the same.
+#### STEP-4 (DAY 7-9): Django API
+* Completion of the Django API which forms the backend part of our project
+#### STEP-5 (DAY 9-12): Frontend
+* Adding Functionality to the project in frontend using REACT and REDUX
+#### STEP-6 (Day 13): Testing and Debugging
+* After testing the code and receiving feedback from tutor, rectify/fix any bugs that exist.
+#### STEP-7 (Day 14): Deployment of Project
 * DAY 14: Checking Deployment of Project on Heroku including debugging and testing.
-* DAY 15: Update Portfolio and post project URL in LinkedIn. [Ref: ]
-
+#### STEP-8 (Day 15): Portfolio and Linkedin Updation
+* DAY 15: Update Portfolio and post project URL in LinkedIn. [Ref:https://www.youtube.com/watch?v=hFUn1Yg3ntc ]
 
 
 ## How to submit your assignment
 
 1. Feel free to ask for feedback on any steps. Our experts are happy to help you achieve your goal! 
 2. When you're done, submit the Adobe XD & Github & Heroku URL to your tutor.
-
 
