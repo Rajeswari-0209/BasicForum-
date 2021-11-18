@@ -96,23 +96,7 @@ This is our guideline schedule, and it can help you stay focused and work toward
 * DAY 14: Checking Deployment of Project on Heroku including debugging and testing.
 * DAY 15: Update Portfolio and post project URL in LinkedIn. [Ref: ]
 
-## Let's define the requirements of the idea
-```
-Ideas can sometimes be cryptic. They need to be organized to reach a successful conclusion. 
-To see the fruition of an idea, we all know that one needs to define the action plan. 
-In this section, we have summarised the steps that can catalyze your process. 
-Once you've got an idea, answer the following questions to achieve this clarity. 
-These answers will be the BRD(Business Requirements Document) for your system. 
-Now, create a card in Trello and write it as a "Project Summary."
-```
 
-1. What is the service name?
-2. Who uses it?
-3. What do you offer?
-4. What is your purpose?
-5. What kind of function does it have?
-    1. Itemize the functions.
-    2. Prioritize functions.
 
 ## How to submit your assignment
 
